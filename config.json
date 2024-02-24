@@ -1,0 +1,9 @@
+{
+    "duration_seconds": 14400,
+    "sso_url": "https://your-sso-url.com",
+    "role_arn": "arn:aws:iam::123456789012:role/YourRole",
+    "principal_arn": "arn:aws:iam::123456789012:saml-provider/YourProvider",
+    "profile_name": "default",
+    "store_in_env": false,
+    "userid": "userid"
+}
