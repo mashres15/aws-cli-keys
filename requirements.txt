@@ -2,3 +2,5 @@ boto3==1.28.6
 selenium==4.0.0
 selenium-wire==5.1.0
 blinker==1.7.0
+selenium-wire
+webdriver-manager
